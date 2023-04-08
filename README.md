@@ -1,5 +1,4 @@
 ### Hi there 👋
-<a href="" target="_blank"><img src="https://img.shields.io/badge/#DD0031?style=#DD0031"/></a>
 
 <!--
 **jyk122121/jyk122121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
